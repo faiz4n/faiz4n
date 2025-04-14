@@ -48,8 +48,8 @@ More to come as I build, break, and rebuild things 🚧
 
 ### 📫 Let's Link Up
 
-- [Instagram](https://www.instagram.com) – for occasional song covers and chaos  
-- [LinkedIn](https://www.linkedin.com) – coming when it needs to  
+- [Instagram](https://www.instagram.com/oyee_faizan/) – for occasional song covers and chaos  
+- [LinkedIn](www.linkedin.com/in/faiz4n) – coming when it needs to  
 - Or just hit me up on GitHub if you're into clean code and cleaner roasts
 
 ---
