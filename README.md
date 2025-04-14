@@ -8,7 +8,10 @@ Building a solid foundation in web development, one line of code and one *what-t
 ### 💻 About Me
 
 - 🎓 Currently studying **BCA (4th Semester)**  
-- 🌱 Focused on **HTML**, **CSS**, and **JavaScript basics**  
+- 🛠 Fluent in:  
+  - **HTML / CSS** (making things look ✨aesthetic✨)  
+  - **JavaScript** (basic JS ninja moves)  
+  - **C++** (OG love, not forgotten)  
 - 🧩 Strengthening core concepts before jumping into frameworks like **React**  
 - 🛠️ Exploring how to turn simple ideas into visually clean, functional websites
 
