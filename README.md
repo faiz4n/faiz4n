@@ -12,7 +12,7 @@ Building a solid foundation in web development, one line of code and one *what-t
   - **HTML / CSS** (making things look ✨aesthetic✨)  
   - **JavaScript** (basic JS ninja moves)  
   - **C++** (OG love, not forgotten)  
-- 🧩 Strengthening core concepts before jumping into frameworks like **React**  
+- 🧩 Strengthening core concepts
 - 🛠️ Exploring how to turn simple ideas into visually clean, functional websites
 
 ---
@@ -20,8 +20,10 @@ Building a solid foundation in web development, one line of code and one *what-t
 ### 🔧 Skills So Far
 
 - **Languages:** HTML, CSS, JavaScript (basic), C++  
-- **Tools:** VS Code, Git, GitHub  
-- **Currently Learning:** JavaScript deeply (like… really understanding it)
+- **Tools:** VS Code, Git, GitHub
+- **Currently Learning:** React – building UIs with components, state, and vibes
+
+
 
 ---
 
@@ -32,8 +34,7 @@ Right now, I’m experimenting with:
 
 - Simple **interactive webpages**
 - Practicing layouts, animations, and clean design  
-- Playing with **vanilla JavaScript** to build real stuff without relying on frameworks (yet)
-
+- Starting to build simple apps using React to understand components and state
 More to come as I build, break, and rebuild things 🚧
 
 ---
